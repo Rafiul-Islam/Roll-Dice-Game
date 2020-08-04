@@ -10,5 +10,5 @@ Purpose of this project is to learn the basics javascript and DOM manipulation -
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-#Here is the link:
+# Here is the link:
 https://rafiul-islam.github.io/Roll-Dice-Game/
