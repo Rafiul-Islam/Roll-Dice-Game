@@ -1,6 +1,6 @@
 Purpose of this project is to learn the basics javascript and DOM manipulation - by applying as many functions as possible
 
-[Website](https://sleepy-morse-65a08a.netlify.app/)
+[Website](https://game-roll-dice.netlify.app/)
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls two dices as many times as he whishes. Each result get added to his ROUND score
